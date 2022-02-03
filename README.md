@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nero-devops&label=Profile%20views&color=0e75b6&style=flat" alt="nero-devops" /> </p>
 
-- 🔭 I’m currently working on [Checkmate Crud_Application](https://github.com/checkmate-group/coursework)
+- 🔭 I’m currently working on [Checkmate CRUD_Application](https://github.com/checkmate-group/coursework)
 
 - 🌱 I’m currently learning **Pug**
 
